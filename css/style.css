@@ -1,0 +1,60 @@
+.header{
+	min-height: 70px;
+	background-color: red;
+}
+.wrapper{
+	overflow: hidden;
+}
+.banner{
+	width: 50%;
+	min-height: 150px;
+	background-color: greenyellow;
+	float: left;
+}
+.contact{
+	width: 50%;
+	min-height: 150px;
+	background-color: limegreen;
+	float: right;
+}
+.section{
+	overflow: hidden;
+}
+.full_service{
+	width: 33.33%;
+	min-height: 150px;
+	float: left;
+}
+.service{
+	background-color: skyblue;
+}
+.about{
+	background-color: darkblue;
+}
+.skill{
+	background-color: steelblue;
+}
+.blog{
+	overflow: hidden;
+}
+.full_blog{
+	width: 25%;
+	min-height: 150px;
+	float: left;
+}
+.blog_one{
+	background-color: #9900CC;
+}
+.blog_two{
+	background-color: #660066;
+}
+.blog_three{
+	background-color: #993366;
+}
+.blog_four{
+	background-color: #CC3399;
+}
+.footer{
+	min-height: 50px;
+	background-color: #3366CC;
+}
